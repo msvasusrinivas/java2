@@ -20,5 +20,6 @@
         function func1() {
             document.getElementById('bod').style.backgroundColor = "red"
         }
+        
     </script>
 </body>
